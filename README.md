@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Om Sai Vasireddy!
 👩🏻‍🎓 Computer Science Undergraduate at **SRM Universiy AP**, Andhra Pradesh, India<br/>
-🎨 Passionate about new things and good at Badminton
+🎨 Passionate about new things and good at Badminton<br/>
 💭 Currently learning about data analytics and Web Development!<br/>
 
 # 💻 Tech Stack
